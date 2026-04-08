@@ -146,7 +146,8 @@ class UserRequest(BaseModel):
     prompt: str
 
 # @app.post("/api/v1/workspace/chat")
-# async def chat(request: UserRequest):
+# async def chat(request: UserRequest):AIzaSyDXoT4WbURq5xOzHTwmHJM-Kumb8MLxNxk
+# https://lab2-cr-service-896843381562.europe-west1.run.app/dev-ui/?app=hackathon-mapa&session=13650d36-b421-427d-aba5-296d7a1e5e37
 #     try:
 #         final_reply = ""
 #         # Inject user_input into the agent state
